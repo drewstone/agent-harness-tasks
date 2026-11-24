@@ -1,0 +1,1 @@
+This repository's visible tests fail. Read the source and the tests, fix the bug so `npm test` passes, and do not weaken or delete tests. Keep the public behavior described in the source file comment.
